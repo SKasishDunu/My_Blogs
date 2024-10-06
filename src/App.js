@@ -1,7 +1,7 @@
 import NavBar from "./Nav-Bar";
 import Home from "./Home";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch
 } from 'react-router-dom';
