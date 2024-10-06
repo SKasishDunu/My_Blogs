@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My New website",
+      "body": "lorem ipsum...",
+      "author": "kashish",
+      "id": "1"
+    },
+    {
+      "title": "My New website",
+      "body": "lorem ipsum...",
+      "author": "kashish",
+      "id": "2"
+    },
+    {
+      "title": "My New website",
+      "body": "lorem ipsum...",
+      "author": "kashish",
+      "id": "3"
+    },
+    {
+      "id": "f8f7",
+      "title": "hello",
+      "body": "adding a new blog",
+      "author": "Kasish"
+    },
+    {
+      "id": "36f8",
+      "title": "hii",
+      "body": "one more",
+      "author": "Kash"
+    }
+  ]
+}
